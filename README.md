@@ -1,6 +1,6 @@
 # 🚀 Java OOP Repository
 
-> A structured collection of Java programs covering core Object-Oriented Programming (OOP) concepts for interview preparation and academic learning.
+> A complete collection of Java programs covering core Object-Oriented Programming (OOP) concepts, designed for placement preparation and strong fundamentals.
 
 ---
 
@@ -8,43 +8,102 @@
 
 ✨ This repository includes hands-on implementations of:
 
-- 🔹 Constructors (Basic → Advanced)
-- 🔹 Inheritance  
+### 🔹 Core OOP Concepts
+- Constructors (Level 1 → Level 3)
+- Inheritance  
   - Single Inheritance  
   - Multilevel Inheritance  
-- 🔹 Encapsulation (Getters & Setters)
-- 🔹 Keywords  
-  - `this` keyword  
-  - `static` keyword  
-- 🔹 Practice Questions (TCS Pattern)
+- Encapsulation (Getters & Setters)
+
+### 🔹 Advanced OOP
+- Abstraction (Abstract Classes)
+- Interfaces
+- Polymorphism  
+  - Method Overloading  
+  - Method Overriding  
+
+### 🔹 Java Keywords
+- `this` keyword  
+- `static` keyword  
+
+### 🔹 Real-World Examples
+- Employee System (Salary Calculation)
+- Bank System (ABC Bank, Account Handling)
+- Payment Systems (UPI, Credit Card)
+
+### 🔹 Practice & Placement Prep
+- TCS Pattern Questions
+- Previous Year Questions
+- Custom Practice Problems
 
 ---
 
-## 📂 Folder Structure
+## 📂 Project Structure
 
 ```
-constructors/      → Constructor concepts
-inheritance/       → Inheritance examples
-encapsulation/     → Data hiding & methods
-keywords/          → Java keyword usage
-practice/          → Coding practice questions
+📁 OOP-IN-JAVA
+│
+├── constructors/
+│   ├── ConstructorLevel1.java
+│   ├── ConstructorLevel2.java
+│   ├── ConstructorLevel3.java
+│
+├── inheritance/
+│   ├── SingleInheritanceL1.java
+│   ├── MultilevelInheritanceL1.java
+│   ├── InheritanceShapeL3.java
+│
+├── encapsulation/
+│   ├── GettersAndSetters.java
+│
+├── abstraction/
+│   ├── AbstractClassL1.java
+│   ├── FinalAbstractionInJavaL3.java
+│
+├── polymorphism/
+│   ├── MethodOverloadingL1.java
+│   ├── MethodOverridingL1.java
+│   ├── FinalPolymorphismL3.java
+│
+├── interface/
+│   ├── InterfaceL1.java
+│
+├── keywords/
+│   ├── ThisKeywordL1.java
+│   ├── StaticKeywordL1.java
+│   ├── UseOfStaticThisKeyword.java
+│
+├── real-world/
+│   ├── Employee.java
+│   ├── BankAccount.java
+│   ├── Payment.java
+│   ├── UPI.java
+│   ├── CreditCard.java
+│
+├── practice/
+│   ├── TCSPractice.java
+│   ├── TCSPractice1.java
+│   ├── TcsLastYearQuestion1.java
+│
+└── README.md
 ```
 
 ---
 
 ## 🧠 Key Learnings
 
-- Understanding class & object design
-- Real-world implementation of inheritance
-- Writing clean and reusable Java code
-- Mastering OOP concepts for placements
+- Strong understanding of OOP principles 🧩  
+- Writing modular and reusable Java code  
+- Real-world system design using classes & objects  
+- Hands-on practice for coding interviews  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Language: Java ☕
-- IDE: IntelliJ / VS Code / Eclipse
+- Language: Java ☕  
+- IDE: IntelliJ / VS Code / Eclipse  
+- Concepts: OOP + Problem Solving  
 
 ---
 
@@ -60,9 +119,8 @@ java FileName
 ## 💡 Sample Output
 
 ```
-Name: Sneha
-Salary: 50000
-Department: IT
+Full Time Salary: 60000
+Part Time Salary: 20000
 ```
 
 ---
@@ -71,24 +129,29 @@ Department: IT
 
 This repository is built for:
 
-- 📚 Learning Java OOP from basics to intermediate
-- 💼 Preparing for placement exams (TCS, Wipro, etc.)
-- 🧪 Practicing coding concepts with real examples
+- 📚 Learning Java OOP (Beginner → Advanced)
+- 💼 Placement Preparation (TCS, Wipro, Infosys)
+- 🧪 Practicing real-world coding scenarios
 
 ---
 
 ## 🌟 Future Improvements
 
-- Add Polymorphism examples
-- Add Abstraction (Abstract classes & Interfaces)
-- Add Mini OOP Projects
+- Add Mini Projects (Banking System UI, Student Management)
+- Add File Handling Programs
+- Add Collections Framework
+- Add Exception Handling Examples
 
 ---
 
 ## 👩‍💻 Author
 
 **Sneha Kumari**  
-B.Tech CSE (IoT & CS)  
-Passionate about building smart systems & solving real-world problems 💡
+B.Tech CSE (IoT & CS)
+Passionate about building smart systems & solving real-world problems 💡  
 
 ---
+
+## ⭐ Support
+
+If you found this helpful, give it a ⭐ on GitHub!
