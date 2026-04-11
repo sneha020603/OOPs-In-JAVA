@@ -20,9 +20,9 @@ agencyDetailsForGivenldAndType method:  This method will take three input parame
                                         array of TravelAgencies objects, int parameter regNo and String parameter packageType. 
                                         The method will return the TravelAgencies object based on below conditions. 
                                         
-                         FlightFacility should be available. 
-                         The input parameters(regNo and packageType) should matched with the regNo and packageType of TravelAgencies object. 
-                         If any of the above conditions are not met, then the method should return null. 
+                         -FlightFacility should be available. 
+                         -The input parameters(regNo and packageType) should matched with the regNo and packageType of TravelAgencies object. 
+                         -If any of the above conditions are not met, then the method should return null. 
                          
                          Note : Same Travel agency can have more than one package type. 
                                 Travel agency and package type combination is unique. 
