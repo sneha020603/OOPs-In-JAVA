@@ -1,4 +1,4 @@
-# 🚀 Java OOP Repository
+# 🚀 Java : OOP
 
 > A complete collection of Java programs covering core Object-Oriented Programming (OOP) concepts, designed for placement preparation and strong fundamentals.
 
